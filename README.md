@@ -1,1 +1,3 @@
-# algorithms-complexity
+# ALGORITHMS AND COMPLEXITY
+##SEMESTER TASK
+<b>EXERCISE:<a href="">SOLUTION</a>
