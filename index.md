@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/chkoutsos/algorithms-complexity/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chkoutsos/algorithms-complexity/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<html>
+  <body style="background-color:#0939ab;>
+  <center><h2>ChKoutsos Algorithms and Complexity</h2><center>
+  <hr>
+   <h3>Ζητούμενα<h3>
+  *Δημιουργία λογαριασμού στο GitHub.<br>
+*Δημιουργία repository στο Github για την εργασία του μαθήματος.<br>
+* Ενεργοποίηση Github pages για το repository.<br>
+* Εγκατάσταση git, clone του repository τοπικά.<br>
+* Κώδικας για ανάγνωση δεδομένων γραφήματος εργασίας.<br>
+* Δημιουργία του πίνακα γειτονικότητας AdjMatrix (δισδιάστατος πίνακας, |V|x|V| με AdjMatrix[i][j] = 1 αν υπάρχει ακμή ανάμεσα στις κορυφές i και j, αλλιώς AdjMatrix[i][j] = 0).<br>
+* Υπολογισμός του Conflict Density.<br>
+  <hr>
+  <h3>Υλοποίηση</h3>
+  <ul>
+   <li>Άνοιγμα Αρχείου</li>
+   <li>Κώδικας Μέρος 1:<a href="" target="_blank">Code</a></li>
+  </ul>
