@@ -1,7 +1,7 @@
 <html>
   <body style="background-color:#0939ab;">
   <center><h2>ChKoutsos Algorithms and Complexity</h2><center>
-  <img src="https://i.gifer.com/origin/32/32b10f0748dad61786df417b4df63072_w200.gif" width="100%" height=40%"">
+  <img src="https://cdn-media-1.freecodecamp.org/images/1*fsYHEgadIdn0fJt-cBXDHQ.gif" width="100%" height=40%"">
     <hr>
     <br>
    <h3>Ζητούμενα<h3>
