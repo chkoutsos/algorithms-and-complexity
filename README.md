@@ -16,7 +16,8 @@
 <hr>
 <li>Full Implementation:</li>
 </ol>
-<h2>SEMESTER TASK</h2>
-<b>EXERCISE:<a href="">SOLUTION</a>
+<hr>
+<br>
+<h3>Go to page:<a href="">Page</a></h3>
 </body>
 </html>
