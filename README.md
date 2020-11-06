@@ -18,6 +18,6 @@
 </ol>
 <hr>
 <br>
-<h3>Go to page:<a href="">Page</a></h3>
+<h3 style="text-align:center;">Go to page:<a href="">Page</a></h3>
 </body>
 </html>
