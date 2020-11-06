@@ -2,7 +2,7 @@
   <body style="background-color:#0939ab;">
   <center><h2>ChKoutsos Algorithms and Complexity</h2><center>
     <h4>Περιγραφή Μαθηματος:</h4>
-  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" width="100%" height=40%">
+  <img src="https://cjango.files.wordpress.com/2018/08/220818_11.gif?w=355&h=290" width="100%" height=40%">
     <hr>
     <br>
    <h3>Ζητούμενα<h3>
