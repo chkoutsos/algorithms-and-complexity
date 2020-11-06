@@ -1,6 +1,9 @@
 <html>
   <body style="background-color:#0939ab;">
   <center><h2>ChKoutsos Algorithms and Complexity</h2><center>
+  <img src="https://i.gifer.com/origin/32/32b10f0748dad61786df417b4df63072_w200.gif">
+    <hr>
+    <br>
   <hr>
    <h3>Ζητούμενα<h3>
   *Δημιουργία λογαριασμού στο GitHub.<br>
@@ -13,9 +16,9 @@
    <hr>
   <h3>Υλοποίηση</h3>
   <ul>
-   <li>Άνοιγμα Αρχείου</li>
+   <li>Άνοιγμα Αρχείου:<a href="">Code</a></li>
    <li>Κώδικας Μέρος 1:<a href="" target="_blank">Code</a></li>
-   </ul>
-                                                 
+    <li>More Info:<a href="https://github.com/chgogos/alco">Link</a></li>
+   </ul>                                              
    </body>
    </html>
